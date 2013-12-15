@@ -9,8 +9,38 @@
     tools:context=".MainActivity" >
 
     <TextView
+        android:id="@+id/textViewEvolve"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:layout_below="@+id/submitButton"
+        android:layout_marginTop="53dp"
+        android:text="@string/evolve"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spinnerList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="96dp"
+        android:entries="@array/pokedexArray"
+        android:prompt="@string/selectPrompt" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="@string/submit" />
+
+    <TextView
+        android:id="@+id/textViewAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewEvolve"
+        android:layout_below="@+id/textViewEvolve"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="" />
 
 </RelativeLayout>
