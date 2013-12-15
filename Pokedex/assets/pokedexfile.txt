@@ -1,0 +1,138 @@
+Chespin
+Basic
+Quilladin
+Evolve Chespin at Lv. 16
+Chesnaught
+Evolve Quilladin at Lv. 36
+Fennekin
+Basic
+Braixen
+Evolve Fennekin at Lv. 16
+Delphox
+Evolve Braixen at Lv. 36
+Froakie
+Basic
+Frogadier
+Evolve Froakie at Lv. 16
+Greninja
+Evolve Frogadier at Lv. 36
+Bunnelby
+Basic
+Diggersby
+Evolve Bunnelby at Lv. 20
+Fletchling
+Basic
+Fletchinder
+Evolve Fletchling at Lv. 17
+Talonflame
+Evolve Fletchinder at Lv. 35
+Scatterbug
+Basic
+Spewpa
+Evolve Scatterbug at Lv. 9
+Vivillon
+Evolve Spewpa at Lv. 12
+Litleo
+Basic
+Pyroar
+Evolve Litleo at Lv. 35
+Flabebe
+Basic
+Floette
+Evolve Flabebe at Lv. 19
+Florges
+Use a Shiny Stone on Floette
+Skiddo
+Basic
+Gogoat
+Evolve Skiddo at Lv. 32
+Pancham
+Basic
+Pangoro
+Evolve Pancham at Lv. 32 with a DARK type in your party
+Furfrou
+Basic
+Espurr
+Basic
+Meowstic
+Evolve Espurr at Lv. 25
+Honedge
+Basic
+Doublade
+Evolve Honedge at Lv. 35
+Aegislash
+Use a Dusk Stone on Doublade
+Spritzee
+Basic
+Aromatisse
+Trade with Satchet
+Swirlix
+Basic
+Slurpuff
+Trade with Whipped Dream
+Inkay
+Basic
+Malamar
+Evolve Inkay at Lv. 30 while holding the DS upside-down
+Binacle
+Basic
+Barbaracle
+Evolve Binacle at Lv. 39
+Skrelp
+Basic
+Dragalge
+Evolve Skrelp at Lv. 48
+Clauncher
+Basic
+Clawitzer
+Evolve Clauncher at Lv. 37
+Helioptile
+Basic
+Heliolisk
+Use a Sun Stone on Helioptile
+Tyrunt
+Basic
+Tyrantrum
+Evolve Tyrunt at Lv. 39 during the day
+Amaura
+Basic
+Aurorus
+Evolve Amaura at Lv. 39 during the night
+Sylveon
+Level up with maximum bond in Pokemon Amie
+Hawlucha
+Basic
+Dedenne
+Basic
+Carbink
+Basic
+Goomy
+Basic
+Sliggoo
+Evolve Goomy at Lv. 40
+Goodra
+Evolve Sliggoo at Lv. 50 in the rain
+Klefki
+Basic
+Phantump
+Basic
+Trevenant
+Trade
+Pumpkaboo
+Basic
+Gourgeist
+Trade
+Bergmite
+Basic
+Avalugg
+Evolve Bergmite at Lv. 37
+Noibat
+Basic
+Noivern
+Evolve Noibat at Lv. 48
+Xerneas
+Basic
+Yveltal
+Basic
+Zygarde
+Basic

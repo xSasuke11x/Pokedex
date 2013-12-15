@@ -5,10 +5,15 @@
     <string name="action_settings">Settings</string>
     <string name="selectPrompt">Choose a Pokemon</string>
  
-    <string-array name="pokedexArray">
+    <string-array name="pokedexNames">
         <item>Chespin</item>
         <item>Quilladin</item>
         <item>Chesnaught</item>
+    </string-array>
+    <string-array name="pokedexValues">
+        <item>Basic</item>
+        <item>Evolves at Lv. 16</item>
+        <item>Evolves at Lv. 36</item>
     </string-array>
     <string name="submit">Submit</string>
     <string name="evolve">How to evolve:</string>

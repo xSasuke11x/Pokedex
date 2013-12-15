@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="96dp"
-        android:entries="@array/pokedexArray"
+        android:entries="@array/pokedexNames"
         android:prompt="@string/selectPrompt" />
 
     <Button

@@ -9,7 +9,8 @@ package edu.champlain.pokedex;
 
 public final class R {
     public static final class array {
-        public static final int pokedexArray=0x7f060000;
+        public static final int pokedexNames=0x7f060000;
+        public static final int pokedexValues=0x7f060001;
     }
     public static final class attr {
     }
