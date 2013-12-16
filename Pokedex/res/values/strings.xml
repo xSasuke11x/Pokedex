@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Pokedex</string>
+    <string name="app_name">Evolution Pokedex</string>
     <string name="action_settings">Settings</string>
     <string name="selectPrompt">Choose a Pokemon</string>
  
@@ -10,12 +10,9 @@
         <item>Quilladin</item>
         <item>Chesnaught</item>
     </string-array>
-    <string-array name="pokedexValues">
-        <item>Basic</item>
-        <item>Evolves at Lv. 16</item>
-        <item>Evolves at Lv. 36</item>
-    </string-array>
     <string name="submit">Submit</string>
     <string name="evolve">How to evolve:</string>
+    <string name="opener">Click on the drop-down menu below and find out how to obtain Pokemon!</string>
+    <string name="answer">*Answer will be here*</string>
 
 </resources>
